@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="WebAuthorize/Hibernate" uuid="c319aab0-79bc-4c39-bc1e-0a8c3a604e85">
+      <driver-ref>greenplum</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost/spring</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="spring@localhost" uuid="8b25d327-9988-4cd3-9799-5eea0608edf3">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/spring</jdbc-url>
+    </data-source>
+  </component>
+</project>
